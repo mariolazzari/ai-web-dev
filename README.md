@@ -112,3 +112,13 @@ printInColor(
 ### Design UI
 
 ### Tranlsate between frameworks
+
+### Generate unit tests
+
+### Generate text and image
+
+### Improve accessibilty
+
+## Server development
+
+### Create and use backend tests
