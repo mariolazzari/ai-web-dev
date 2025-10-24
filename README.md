@@ -151,3 +151,11 @@ module.exports = products;
 ### Server security
 
 ### Server tests
+
+## Working with Database
+
+### Create schema
+
+### Create query
+
+### Optimize index
